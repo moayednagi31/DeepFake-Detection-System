@@ -10,5 +10,4 @@ AI-powered application for detecting fake videos using Deep Learning.
  
 ## Run
 First install all the requirments.txt
-يf
 python app.py
