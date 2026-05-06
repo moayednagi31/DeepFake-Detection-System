@@ -9,5 +9,5 @@ AI-powered application for detecting fake videos using Deep Learning.
 - CustomTkinter
  
 ## Run
-First install all the requirments.txt
-python app.py
+-First install all the requirments.txt
+-python app.py
